@@ -7,7 +7,7 @@ A comprehensive learning platform for Data Science and Data Engineering with ext
 This platform uses a simple authentication system to track learning progress. Use one of these credentials:
 
 ### Primary Account
-- **Username:** ``
+- **Username:** 
 - **Password:** `DataLearnHub8`
 
 ### Secondary Account  
