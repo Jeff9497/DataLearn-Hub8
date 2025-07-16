@@ -7,7 +7,7 @@ A comprehensive learning platform for Data Science and Data Engineering with ext
 This platform uses a simple authentication system to track learning progress. Use one of these credentials:
 
 ### Primary Account
-- **Username:** ``
+- **Username:** 
 - **Password:** `DataLearnHub8`
 
 ### Secondary Account  
@@ -53,11 +53,11 @@ This platform uses a simple authentication system to track learning progress. Us
 
 ## 🚀 Getting Started
 
+
 1. **Access the Platform**: Navigate to the application URL
-2. **Login**: Use one of the provided credentials above
-3. **Choose Your Path**: Select Data Science or Data Engineering
-4. **Start Learning**: Begin with beginner modules and progress through levels
-5. **Track Progress**: Your progress is automatically saved per user account
+2. **Choose Your Path**: Select Data Science or Data Engineering
+3. **Start Learning**: Begin with beginner modules and progress through levels
+4. **Track Progress**: Your progress is automatically saved per user account
 
 ## 🛠️ Technical Stack
 
@@ -82,7 +82,6 @@ The platform is fully responsive and optimized for mobile learning. Access from 
 ## 🔒 Privacy & Data
 
 - No registration required
-- Progress tied to login credentials
 - Data stored locally in browser
 - No external data collection
 
